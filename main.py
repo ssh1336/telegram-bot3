@@ -3,7 +3,7 @@ import telebot
 from telebot.types import ChatPermissions
 import time
 
-TOKEN = "PUT_YOUR_TOKEN_HERE"
+TOKEN = "8737030720:AAElxZsukpOKGyakWCfhXaRJfCih85nduMQ"
 bot = telebot.TeleBot(TOKEN)
 
 print("🔥 Global Bot V2 is running...")
